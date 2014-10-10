@@ -1,7 +1,7 @@
 {
   "name": "text-to-string-for-javascript-converter",
   "main": "./lib/text-to-string-for-javascript-converter",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "This package changes selected Text to javascript String\n with ctrl-alt-e and will try to convert back with ctrl-alt-w.\n The string to convert can contain variable name which indicated by \":\" \n example\n\nA:B\\nC\n\n will convert to \n\n\"A\" + B + \"\" + \\n \"C\"\n\n",
   "repository": "https://github.com/tanadee/text-to-string-for-javascript-converter.git",
   "license": "MIT",
