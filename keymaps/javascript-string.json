@@ -1,0 +1,6 @@
+{
+  ".editor":{
+    "ctrl-alt-e": "text-to-javascript:action",
+    "ctrl-alt-w": "javascript-to-text:action"
+  }
+}
